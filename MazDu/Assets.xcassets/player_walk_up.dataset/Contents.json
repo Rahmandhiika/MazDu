@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "player_walk_up.gif",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
